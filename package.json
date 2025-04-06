@@ -1,5 +1,5 @@
 {
-  "name": "rn-smart-render",
+  "name": "@praveennayak877/rn-smart-render",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -7,10 +7,20 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "react-native",
+    "performance",
+    "rerender",
+    "memo",
+    "custom-hook"
+  ],
   "author": "Praveen Nayak",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
+  "description": "Lightweight React & React Native library to prevent unnecessary re-renders",
   "dependencies": {
     "@types/lodash.isequal": "^4.5.8",
     "lodash.isequal": "^4.5.0"
