@@ -1,5 +1,5 @@
 {
-  "name": "@praveennayak877/rn-smart-render",
+  "name": "rn-smart-render",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
