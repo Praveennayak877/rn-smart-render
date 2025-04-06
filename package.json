@@ -18,5 +18,13 @@
   "devDependencies": {
     "@types/react": "^19.1.0",
     "typescript": "^5.8.3"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/Praveennayak877/rn-smart-render.git"
+},
+"bugs": {
+  "url": "https://github.com/Praveennayak877/rn-smart-render/issues"
+},
+"homepage": "https://github.com/Praveennayak877/rn-smart-render#readme"
 }
