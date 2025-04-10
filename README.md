@@ -62,5 +62,5 @@ We welcome contributions!
 Feel free to fork, improve, and PR on GitHub
 
 📜 License
-MIT © Praveen Nayak
+MIT © Praveen Nayajk
 
